@@ -7,6 +7,6 @@ Maker Media GmbH
 
 ### In diesem Artikel zeigen wir, wie man berührungsempfindliche Panels mit Matrizen und leitfähigen Textilien herstellt. Diese berührungsempfindlichen Panels können mit einem Mikrocontroller verwendet werden, um Projekte mit User-Input zu steuern.
 
-![Aufmacherbild aus dem Heft](./doc/Aufmacher.JPG)
+![Aufmacherbild aus dem Heft](./doc/aufmacher.JPG)
 
 Den Artikel mit der Bauanleitung gibt es in der **[Make-Ausgabe 5/24](https://www.heise.de/select/make/2024/5)** zu lesen.
